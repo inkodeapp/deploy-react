@@ -19,7 +19,7 @@ const ContentContainer = () => {
       />
       <ModalButtonWrapper
         buttonText="Notificarme"
-        modalTitle="REGÍSTRATE"
+        modalTitle="REGÍSTRAR"
         modalTitleFontSize="40px"
         modalTitleLetterSpacing="3px"
         modalText="Y mira antes que nadie las novedades"
